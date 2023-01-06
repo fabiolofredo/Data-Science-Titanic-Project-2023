@@ -1,9 +1,9 @@
-# Exercises-for-Data-Science
+# Titanic Project
 
 The data was taken from kaggle on Titanic - Machine Learning from Disaster
 https://www.kaggle.com/competitions/titanic
 
-Analysis was done in 5 parts
+The analysis was done in 5 parts
 
 1. Statistical Tests.
 A statistical analysis of the data was made by obtaining the p-value and his conclusions, calculating values for obtain information and answering some questions.
