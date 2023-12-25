@@ -4,7 +4,7 @@
 
 The analysis was conducted in five parts:
 
-#1. Statistical Tests:
+1. Statistical Tests:
 A statistical analysis of the data involved obtaining p-values and drawing conclusions. Calculations were performed to gather information and address specific questions.
 
 2. Cleaning for Machine Learning:
